@@ -6,4 +6,4 @@ build: $(FILESYSTEM_FILES)
 	echo 'To Mount: ./TFS -f <Mount Directory>'
 
 clean:
-	rm ssfs
+	rm TFS
