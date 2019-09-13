@@ -24,7 +24,7 @@ sudo apt-get install libfuse-dev
 9. Data backup and Hierarchy of FS is also created and updated every time program is terminated.
 10. After Program Termination, the user can still access all the Directories and Files (__2 Levels of Persistence__)
 
-### Cloning and Execution Execution
+### Cloning and Execution
 
 Clone the Reposirory <br/>
 ```git clone https://github.com/Kadle11/FileSystem_Using_FUSE.git TFS```
